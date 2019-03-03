@@ -1,8 +1,7 @@
 <div style="text-align:center;">
-  <img src="https://i.ibb.co/4gBjdC9/React-Spring-Series.jpg" alt="React-Spring Tutorial Series" style="height:300px;"/>
+  <img src="https://i.imgur.com/pdaLB8w.jpg" alt="React-Spring Tutorial Series" style="height:300px;"/>
   <br>
   <br>
-  <hr>
 </div>
 
 The [`react-spring`](https://www.react-spring.io/) series is designed to take you from **Zero** to **Hero** ⚔️ with animating in React.
@@ -43,8 +42,6 @@ Then follow along with the video series.
 If at any time you get stuck, you can _peek_ at the finished project in the `completed/` directory, but try your best to push through!
 
 You got this!! 💖
-
----
 
 ## **View Full Tutorial Series**
 
