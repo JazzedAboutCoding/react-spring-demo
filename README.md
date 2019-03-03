@@ -1,68 +1,51 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div style="text-align:center;">
+  <img src="https://i.ibb.co/4gBjdC9/React-Spring-Series.jpg" alt="React-Spring Tutorial Series" style="height:300px;"/>
+  <br>
+  <br>
+  <hr>
+</div>
 
-## Available Scripts
+The [`react-spring`](https://www.react-spring.io/) series is designed to take you from **Zero** to **Hero** ⚔️ with animating in React.
 
-In the project directory, you can run:
+## **Project Tree**
 
-### `npm start`
+```bash
+.
+├── src
+│   ├── Demo.js
+│   └── ...
+│
+└── ...
+```
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## **Getting Started**
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+### Dependencies
 
-### `npm test`
+- Node: `11.10.0+`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Dependency Resolver: `Yarn 1.12.3+`
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To get up and running with the **React-Spring Demo** - go to the `start/` directory:
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+```bash
+# Install Dependencies
+yarn
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Start Demo App
+yarn start
+```
 
-### `npm run eject`
+Then follow along with the video series.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+If at any time you get stuck, you can _peek_ at the finished project in the `completed/` directory, but try your best to push through!
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+You got this!! 💖
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## **View Full Tutorial Series**
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+[<img src="https://www.youtube.com/yts/img/favicon_32-vflOogEID.png">](https://youtu.be/)
