@@ -12,6 +12,12 @@ You will be building an **Audiobook Library** with three **animated views**:
 - grid
 - product detail
 
+<div style="text-align:center;">
+  <img src="https://i.imgur.com/j5hQGlB.gif" alt="React-Spring Tutorial Demo Video" style="height:400px;"/>
+  <br>
+  <br>
+</div>
+
 ## **Project Tree**
 
 ```bash
