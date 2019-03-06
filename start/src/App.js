@@ -1,13 +1,13 @@
 import React from 'react';
 
-import Demo from './Demo';
+import Library from './Library';
 
 import './App.css';
 
 const App = () => {
   return (
     <div className="App">
-      <Demo />
+      <Library />
     </div>
   );
 };

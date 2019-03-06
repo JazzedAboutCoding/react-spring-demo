@@ -6,6 +6,12 @@
 
 The [`react-spring`](https://www.react-spring.io/) series is designed to take you from **Zero** to **Hero** ⚔️ with animating in React.
 
+You will be building an **Audiobook Library** with three **animated views**:
+
+- home
+- grid
+- product detail
+
 ## **Project Tree**
 
 ```bash
@@ -37,7 +43,7 @@ yarn
 yarn start
 ```
 
-Then follow along with the video series.
+Then follow along with the video series to build out the full application.
 
 If at any time you get stuck, you can _peek_ at the finished project in the `completed/` directory, but try your best to push through!
 
@@ -45,4 +51,4 @@ You got this!! 💖
 
 ## **View Full Tutorial Series**
 
-[<img src="https://www.youtube.com/yts/img/favicon_32-vflOogEID.png">](https://youtu.be/)
+[<img src="https://www.youtube.com/yts/img/favicon_32-vflOogEID.png">](https://youtu.be/TBD)
