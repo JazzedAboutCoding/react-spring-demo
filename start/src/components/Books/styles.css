@@ -9,7 +9,11 @@
 .hp-header-h1 {
   color: #444;
   margin-left: 20px;
-  textshadow: 0px 2px 40px #00000020, 0px 2px 5px #00000030;
+  text-shadow: 0px 2px 40px #00000020, 0px 2px 5px #00000030;
+}
+
+.hp-logo {
+  max-width: 300px;
 }
 
 .cell {

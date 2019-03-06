@@ -23,8 +23,15 @@ You will be building an **Audiobook Library** with three **animated views**:
 ```bash
 .
 ├── src
-│   ├── Demo.js
-│   └── ...
+│   ├── App.js
+│   ├── Pages.js
+│   │
+│   ├── components
+│   │   ├── Books
+│   │   └── ...
+│   │
+│   └── constants
+│       └── ...
 │
 └── ...
 ```
@@ -56,5 +63,7 @@ If at any time you get stuck, you can _peek_ at the finished project in the `com
 You got this!! 💖
 
 ## **View Full Tutorial Series**
+
+**_IN-PROGRESS_**: Coming Soon...
 
 [<img src="https://www.youtube.com/yts/img/favicon_32-vflOogEID.png">](https://youtu.be/TBD)
